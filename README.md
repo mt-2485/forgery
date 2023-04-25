@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Add PaddlePaddle Docs Integrations Page (#8858)
