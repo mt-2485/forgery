@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Add YOLOv8 LibTorch C++ inference example (#7090)
