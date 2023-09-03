@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Model typehints Docker fix (#8306)
