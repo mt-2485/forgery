@@ -1,1 +1,1 @@
-example Google Colab
+Add simple-utilities.md Docs page (#8269)
