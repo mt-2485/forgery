@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Elaborate Train and Predict mode docs arguments (#8137)
