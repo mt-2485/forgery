@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
