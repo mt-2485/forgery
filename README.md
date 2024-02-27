@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Fix TFLite INT8 for OBB (#7989)
