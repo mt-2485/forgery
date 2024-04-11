@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
