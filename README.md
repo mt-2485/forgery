@@ -1,1 +1,1 @@
-fix val each epoch
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
